@@ -1,0 +1,21 @@
+bin/
+tmp/
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+# vim
+.*.sw[a-p]
+
+# Mac filesystem dust
+.DS_Store
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+node_modules
