@@ -1,9 +1,29 @@
 {
-  "name": "SocketChat",
-  "version": "1.0.0",
-  "description": "A cute lil' socket chat",
-  "dependencies": {
-    "express": "~4.4.1",
-    "socket.io": "~1.0.4"
-  }
+    "name": "SocketChat",
+    "version": "1.0.0",
+    "description": "A cute 'lil socket chat",
+    "dependencies": {
+        "express": "~4.4.1",
+        "socket.io": "~1.0.4"
+    },
+    "keywords": [
+        "socket",
+        "chat",
+        "html",
+        "javascript",
+        "client",
+        "server"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/psgs/SocketChat.git"
+    },
+    "bugs": {
+        "url": "https://github.com/psgs/SocketChat/issues"
+    },
+    "author": {
+        "name": "psgs",
+        "email": "fpigerre@gmail.com",
+        "url": "http://psgs.tk"
+    }
 }

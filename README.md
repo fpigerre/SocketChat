@@ -4,5 +4,5 @@ SocketChat  [![Build Status](https://travis-ci.org/psgs/SocketChat.png?branch=ma
 SocketChat is a 'lil chat application, built in [NodeJS](http://nodejs.org/), using [Socket.io](http://socket.io).
 The code was originally based upon a [Socket.io documentation example](http://socket.io/get-started/chat/) and has since acquired features such as nickname support.
 
-![Interface Screenshot](http://i.imgur.com/op2Dzj3.png)
+![Interface Screenshot](http://i.imgur.com/Njvuq9T.png)
 
