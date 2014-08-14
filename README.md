@@ -10,5 +10,5 @@ SocketChat is built using [NodeJS](http://nodejs.org) and [Socket.io](http://soc
 In order to install SocketChat's dependencies, the ```npm install``` command should be used before commencing development.
 SocketChat can be run using ```node index.js```.
 
-![Interface Screenshot](http://i.imgur.com/Njvuq9T.png)
+![Interface Screenshot](http://i.imgur.com/UghMDNG.png)
 
